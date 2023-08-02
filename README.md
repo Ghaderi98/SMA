@@ -1,2 +1,2 @@
 # SMA
-Bu and Sell by simple moving average for stock market
+Buy and Sell by simple moving average for stock market
